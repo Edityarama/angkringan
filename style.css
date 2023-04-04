@@ -90,7 +90,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/yaya.png");
+  background-image: url("img/yaya.png");
   background-repeat: no-repeat;
   background-size: 500px;
   background-position: right;
